@@ -1,2 +1,2 @@
 # CleanRoomEnvironment
-Example C# code for executing select functions of the same applicaiton from another process. 
+Example C# code for executing select functions of the same application from another process. 
